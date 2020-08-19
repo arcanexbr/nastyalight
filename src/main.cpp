@@ -2,8 +2,8 @@
 #include <WiFiClientSecure.h>
 
 #ifndef STASSID
-#define STASSID "computer6"
-#define STAPSK  "12345678"
+#define STASSID "Wive-NG-MT"
+#define STAPSK  "kirill123456"
 #endif
 
 const char* ssid = STASSID;
