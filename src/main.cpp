@@ -12,7 +12,7 @@ const char* password = STAPSK;
 const char* host = "api.weather.yandex.ru";
 const int httpsPort = 443;
 
-// Use web browser to view and copy
+// Use web browser to view and copy 
 // SHA1 fingerprint of the certificate
 const char fingerprint[] PROGMEM = "31 6D CA D6 6F C0 DC F5 E5 A4 DE 43 94 83 3A C2 AF BD 26 C0";
 
